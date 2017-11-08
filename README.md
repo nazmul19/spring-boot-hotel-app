@@ -1,2 +1,2 @@
-# spring-boot-hotel-app
+# spring-hotel-app
 Hotel App
